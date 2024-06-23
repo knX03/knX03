@@ -1,0 +1,120 @@
+2024-06-02 12:41:20.715 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 19152 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-02 12:41:20.723 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-02 12:41:20.826 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-02 12:41:20.827 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-02 12:41:24.653 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-02 12:41:24.659 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-02 12:41:24.736 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2024-06-02 12:41:26.425 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-02 12:41:26.445 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-02 12:41:26.450 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-02 12:41:26.451 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-02 12:41:26.571 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-02 12:41:26.573 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 5743 ms
+2024-06-02 12:41:28.386 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-02 12:41:28.831 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-02 12:41:28.867 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-02 12:41:28.912 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-02 12:41:28.930 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 9.712 seconds (process running for 12.408)
+2024-06-02 12:41:36.531 INFO  --- [http-nio-80-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-02 12:41:38.203 INFO  --- [http-nio-80-exec-3] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-02 17:13:43.579 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 7896 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-02 17:13:43.585 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-02 17:13:43.678 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-02 17:13:43.680 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-02 17:13:45.731 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-02 17:13:45.734 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-02 17:13:45.783 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 28 ms. Found 0 Redis repository interfaces.
+2024-06-02 17:13:46.545 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-02 17:13:46.554 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-02 17:13:46.557 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-02 17:13:46.558 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-02 17:13:46.636 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-02 17:13:46.637 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 2956 ms
+2024-06-02 17:13:47.888 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-02 17:13:48.273 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-02 17:13:48.300 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-02 17:13:48.333 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-02 17:13:48.343 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 5.664 seconds (process running for 6.753)
+2024-06-02 17:14:38.443 INFO  --- [http-nio-80-exec-4] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-02 17:14:38.562 INFO  --- [http-nio-80-exec-6] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-02 17:36:59.480 INFO  --- [lettuce-nioEventLoop-4-1] io.lettuce.core.protocol.CommandHandler Line:217 - null Unexpected exception during request: java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-02 17:36:59.584 INFO  --- [lettuce-eventExecutorLoop-1-11] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/127.0.0.1:6379
+2024-06-02 17:36:59.591 WARN  --- [lettuce-nioEventLoop-4-2] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:37:08.683 INFO  --- [lettuce-eventExecutorLoop-1-7] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:37:08.686 WARN  --- [lettuce-nioEventLoop-4-14] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:37:16.884 INFO  --- [lettuce-eventExecutorLoop-1-8] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:37:16.886 WARN  --- [lettuce-nioEventLoop-4-15] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:37:33.284 INFO  --- [lettuce-eventExecutorLoop-1-9] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:37:33.287 WARN  --- [lettuce-nioEventLoop-4-16] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:38:03.385 INFO  --- [lettuce-eventExecutorLoop-1-5] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:38:03.387 WARN  --- [lettuce-nioEventLoop-4-1] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:38:33.482 INFO  --- [lettuce-eventExecutorLoop-1-10] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:38:33.484 WARN  --- [lettuce-nioEventLoop-4-2] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:39:03.589 INFO  --- [lettuce-eventExecutorLoop-1-12] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:39:03.591 WARN  --- [lettuce-nioEventLoop-4-3] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:39:33.689 INFO  --- [lettuce-eventExecutorLoop-1-14] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:39:33.690 WARN  --- [lettuce-nioEventLoop-4-4] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:40:03.782 INFO  --- [lettuce-eventExecutorLoop-1-16] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:40:03.787 WARN  --- [lettuce-nioEventLoop-4-5] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:40:33.884 INFO  --- [lettuce-eventExecutorLoop-1-2] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:40:33.885 WARN  --- [lettuce-nioEventLoop-4-6] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:41:03.985 INFO  --- [lettuce-eventExecutorLoop-1-4] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:41:03.987 WARN  --- [lettuce-nioEventLoop-4-7] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:41:34.082 INFO  --- [lettuce-eventExecutorLoop-1-6] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:41:34.084 WARN  --- [lettuce-nioEventLoop-4-8] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:42:04.186 INFO  --- [lettuce-eventExecutorLoop-1-8] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:42:04.188 WARN  --- [lettuce-nioEventLoop-4-9] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:42:34.282 INFO  --- [lettuce-eventExecutorLoop-1-10] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:42:34.284 WARN  --- [lettuce-nioEventLoop-4-10] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:43:04.382 INFO  --- [lettuce-eventExecutorLoop-1-12] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:43:04.384 WARN  --- [lettuce-nioEventLoop-4-11] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:43:34.483 INFO  --- [lettuce-eventExecutorLoop-1-14] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:43:34.485 WARN  --- [lettuce-nioEventLoop-4-12] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:44:04.593 INFO  --- [lettuce-eventExecutorLoop-1-16] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:44:04.595 WARN  --- [lettuce-nioEventLoop-4-13] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:44:34.683 INFO  --- [lettuce-eventExecutorLoop-1-2] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:44:34.685 WARN  --- [lettuce-nioEventLoop-4-14] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:45:04.781 INFO  --- [lettuce-eventExecutorLoop-1-4] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:45:04.783 WARN  --- [lettuce-nioEventLoop-4-15] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:45:34.882 INFO  --- [lettuce-eventExecutorLoop-1-6] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:45:34.884 WARN  --- [lettuce-nioEventLoop-4-16] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:46:04.990 INFO  --- [lettuce-eventExecutorLoop-1-8] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:46:04.992 WARN  --- [lettuce-nioEventLoop-4-1] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:46:35.089 INFO  --- [lettuce-eventExecutorLoop-1-10] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:46:35.091 WARN  --- [lettuce-nioEventLoop-4-2] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:47:05.184 INFO  --- [lettuce-eventExecutorLoop-1-12] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:47:05.186 WARN  --- [lettuce-nioEventLoop-4-3] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:47:35.293 INFO  --- [lettuce-eventExecutorLoop-1-14] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:47:35.295 WARN  --- [lettuce-nioEventLoop-4-4] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:48:05.383 INFO  --- [lettuce-eventExecutorLoop-1-16] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:48:05.385 WARN  --- [lettuce-nioEventLoop-4-5] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:48:35.486 INFO  --- [lettuce-eventExecutorLoop-1-2] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:48:35.488 WARN  --- [lettuce-nioEventLoop-4-6] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:49:05.594 INFO  --- [lettuce-eventExecutorLoop-1-4] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:49:05.596 WARN  --- [lettuce-nioEventLoop-4-7] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:49:35.683 INFO  --- [lettuce-eventExecutorLoop-1-6] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:49:35.685 WARN  --- [lettuce-nioEventLoop-4-8] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:50:05.786 INFO  --- [lettuce-eventExecutorLoop-1-8] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:50:05.787 WARN  --- [lettuce-nioEventLoop-4-9] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:50:35.884 INFO  --- [lettuce-eventExecutorLoop-1-10] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:50:35.886 WARN  --- [lettuce-nioEventLoop-4-10] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:51:05.993 INFO  --- [lettuce-eventExecutorLoop-1-12] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/<unresolved>:6379
+2024-06-02 17:51:05.994 WARN  --- [lettuce-nioEventLoop-4-11] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-02 17:51:13.201 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-02 17:51:13.202 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed

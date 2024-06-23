@@ -1,0 +1,116 @@
+.playlistCover img {
+    width: 200px;
+    height: 200px;
+    max-width: 200px;
+    max-height: 200px;
+    /*超出部分隐藏*/
+    overflow: hidden;
+    border-radius: 15px;
+    transition: 0.5s all ease-in-out;
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    cursor: pointer;
+}
+
+.playlistCover:hover img {
+    transform: scale(1.2, 1.2);
+    transition: 0.5s all ease-in-out;
+}
+
+/*新建歌单模块框架*/
+.createPlaylistForm .el-dialog {
+    height: 70%;
+    border-radius: 20px;
+    background-color: #626262;
+}
+
+/*标题*/
+.createPlaylistForm .el-dialog__title {
+    font-size: 25px;
+    font-family: STXihei, serif;
+    font-weight: 900;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    color: white;
+}
+
+.createPlaylistForm .el-dialog__body {
+    padding-left: 40px;
+}
+
+/*按钮位置*/
+#formbutton {
+    position: relative;
+    top: 30px;
+}
+
+/*使用id选择器提高权重，覆写组件样式 ,按钮样式*/
+#createPlaylistForm .el-button--primary {
+    margin-left: 40px;
+    background-color: #e58c43;
+    border-color: #e58c43;
+}
+
+#createPlaylistForm .el-button--primary:hover {
+    background-color: #fff4ea;
+    border-color: #fff4ea;
+    color: #e58c43;
+}
+
+#createPlaylistForm .el-button:hover {
+    background-color: #fff4ea;
+    border-color: #fff4ea;
+    color: #e58c43;
+}
+
+/**
+编辑表单
+ */
+
+/*表单文字*/
+.creatForm .el-form-item__label {
+    color: white;
+    font-family: STXihei, serif;
+}
+
+/*昵称输入框*/
+#playlist_Name .el-input {
+    width: 300px;
+}
+
+/*表单输入框*/
+.creatForm .el-input {
+    width: 200px;
+    color: black;
+}
+
+.creatForm .el-select {
+    width: 150px;
+}
+
+#creatform .el-date-editor.el-input {
+    width: 200px !important;
+}
+
+
+/*简介输入框*/
+#playlist_Introduction .el-textarea__inner {
+    width: 300px;
+    height: 100px;
+    max-height: 200px;
+}
+
+#playlist_Introduction .el-textarea .el-input__count {
+    position: absolute;
+    font-size: 12px;
+    line-height: 14px;
+    bottom: 5px;
+    left: 230px;
+    right: inherit;
+}
+
+#spLabel .el-select__wrapper.is-focused {
+    box-shadow: 0 0 0 1px #b0601b inset;
+}

@@ -1,0 +1,128 @@
+2024-06-03 20:35:55.134 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 17144 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-03 20:35:55.137 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-03 20:35:55.182 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-03 20:35:55.183 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-03 20:35:56.414 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-03 20:35:56.417 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-03 20:35:56.446 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-06-03 20:35:57.138 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-03 20:35:57.147 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-03 20:35:57.149 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-03 20:35:57.149 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-03 20:35:57.218 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-03 20:35:57.220 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 2034 ms
+2024-06-03 20:35:58.097 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-03 20:35:58.263 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-03 20:35:58.280 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-03 20:35:58.300 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-03 20:35:58.310 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 3.696 seconds (process running for 8.121)
+2024-06-03 20:36:37.833 INFO  --- [http-nio-80-exec-2] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-03 20:36:37.993 INFO  --- [http-nio-80-exec-7] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-03 21:30:25.964 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-03 21:30:25.974 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed
+2024-06-03 21:30:31.127 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 18896 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-03 21:30:31.131 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-03 21:30:31.169 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-03 21:30:31.170 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-03 21:30:31.760 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-03 21:30:31.762 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-03 21:30:31.791 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2024-06-03 21:30:32.391 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-03 21:30:32.399 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-03 21:30:32.401 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-03 21:30:32.401 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-03 21:30:32.472 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-03 21:30:32.473 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 1303 ms
+2024-06-03 21:30:33.380 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-03 21:30:33.612 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-03 21:30:33.635 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-03 21:30:33.659 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-03 21:30:33.667 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 2.992 seconds (process running for 3.691)
+2024-06-03 21:33:18.897 INFO  --- [http-nio-80-exec-2] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-03 21:33:18.980 INFO  --- [http-nio-80-exec-6] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-03 22:14:15.298 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-03 22:14:15.533 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed
+2024-06-03 22:16:19.327 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 4344 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-03 22:16:19.336 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-03 22:16:19.459 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-03 22:16:19.461 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-03 22:16:20.752 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-03 22:16:20.758 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-03 22:16:20.808 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 25 ms. Found 0 Redis repository interfaces.
+2024-06-03 22:16:22.278 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-03 22:16:22.307 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-03 22:16:22.312 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-03 22:16:22.314 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-03 22:16:22.520 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-03 22:16:22.525 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 3059 ms
+2024-06-03 22:16:24.359 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-03 22:16:24.864 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-03 22:16:24.919 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-03 22:16:24.994 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-03 22:16:25.029 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 6.988 seconds (process running for 10.109)
+2024-06-03 22:16:33.947 INFO  --- [http-nio-80-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-03 22:16:34.117 INFO  --- [http-nio-80-exec-1] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-03 22:27:12.118 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-03 22:27:12.123 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed
+2024-06-03 22:27:16.892 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 15512 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-03 22:27:16.896 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-03 22:27:16.943 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-03 22:27:16.944 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-03 22:27:17.645 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-03 22:27:17.649 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-03 22:27:17.686 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2024-06-03 22:27:18.488 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-03 22:27:18.498 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-03 22:27:18.500 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-03 22:27:18.500 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-03 22:27:18.570 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-03 22:27:18.570 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 1626 ms
+2024-06-03 22:27:19.976 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-03 22:27:20.414 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-03 22:27:20.451 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-03 22:27:20.502 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-03 22:27:20.522 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 4.169 seconds (process running for 5.694)
+2024-06-03 22:27:38.362 INFO  --- [http-nio-80-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-03 22:27:38.521 INFO  --- [http-nio-80-exec-1] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-03 22:34:54.602 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-03 22:34:54.610 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed
+2024-06-03 22:34:58.145 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:51  - Starting InitialMusicApplication using Java 17 with PID 10796 (D:\Workspeace\InitialMusic\target\classes started by 窃宁康 in D:\Workspeace\InitialMusic)
+2024-06-03 22:34:58.148 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:638 - The following 1 profile is active: "dev"
+2024-06-03 22:34:58.181 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-03 22:34:58.182 INFO  --- [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-03 22:34:58.688 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-06-03 22:34:58.694 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-06-03 22:34:58.725 INFO  --- [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:208 - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+2024-06-03 22:34:59.226 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:108 - Tomcat initialized with port(s): 80 (http)
+2024-06-03 22:34:59.234 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Initializing ProtocolHandler ["http-nio-80"]
+2024-06-03 22:34:59.235 INFO  --- [restartedMain] org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-06-03 22:34:59.235 INFO  --- [restartedMain] org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-06-03 22:34:59.290 INFO  --- [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-06-03 22:34:59.290 INFO  --- [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Line:291 - Root WebApplicationContext: initialization completed in 1108 ms
+2024-06-03 22:35:00.121 INFO  --- [restartedMain] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Line:59  - Adding welcome page: class path resource [static/index.html]
+2024-06-03 22:35:00.340 INFO  --- [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Line:59  - LiveReload server is running on port 35729
+2024-06-03 22:35:00.369 INFO  --- [restartedMain] org.apache.coyote.http11.Http11NioProtocol Line:173 - Starting ProtocolHandler ["http-nio-80"]
+2024-06-03 22:35:00.391 INFO  --- [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:220 - Tomcat started on port(s): 80 (http) with context path ''
+2024-06-03 22:35:00.400 INFO  --- [restartedMain] com.kn.initialmusic.InitialMusicApplication Line:57  - Started InitialMusicApplication in 2.707 seconds (process running for 3.469)
+2024-06-03 22:35:08.212 INFO  --- [http-nio-80-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-03 22:35:08.285 INFO  --- [http-nio-80-exec-1] com.alibaba.druid.pool.DruidDataSource Line:1002 - {dataSource-1} inited
+2024-06-03 23:04:15.144 INFO  --- [lettuce-nioEventLoop-4-1] io.lettuce.core.protocol.CommandHandler Line:217 - null Unexpected exception during request: java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-03 23:04:15.225 INFO  --- [lettuce-eventExecutorLoop-1-15] io.lettuce.core.protocol.ConnectionWatchdog Line:171 - Reconnecting, last destination was localhost/127.0.0.1:6379
+2024-06-03 23:04:15.232 WARN  --- [lettuce-nioEventLoop-4-2] io.lettuce.core.protocol.ConnectionWatchdog Line:151 - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379
+2024-06-03 23:04:19.015 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1885 - {dataSource-1} closing ...
+2024-06-03 23:04:19.025 INFO  --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource Line:1955 - {dataSource-1} closed

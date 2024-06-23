@@ -1,0 +1,154 @@
+a {
+    text-decoration: none;
+}
+
+/*导航容器*/
+.container {
+    width: 1290px;
+}
+
+/*导航栏标题*/
+.navbar-brand {
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+/*搜索框*/
+#searchBox input {
+    border-radius: 0.975rem
+}
+
+/*分割线*/
+#split {
+    width: 1px;
+    height: 30px;
+    background-color: white;
+    opacity: 0.7;
+    position: relative;
+    left: -90px;
+}
+
+/*导航栏头像*/
+.nav_avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.message_mod {
+    cursor: pointer;
+}
+
+.el-drawer__header {
+    margin-bottom: 10px;
+}
+
+/*todo 覆写elementPlus的样式：在外面套一层div并赋于id值，使用#id >>> .class **深度作用选择器** ,
+   深度选择器(:deep()): 通过改变属性选择器的位置实现样式穿透  用法： .父元素class :deep(.class)  */
+#mess :deep(.el-drawer__body ) {
+    padding: 0;
+}
+
+.fMessage_mod {
+    width: 100%;
+    height: 100%;
+}
+
+.messageList {
+    height: 100px;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    transition: 0.5s all ease-in-out;
+    cursor: pointer;
+}
+
+.messageList:hover {
+    background-color: #ededed;
+    border-radius: 13px;
+    transition: 0.5s all ease-in-out;
+}
+
+.messageList img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.messInfo {
+    height: 80px;
+    width: 76%;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.messInfo span {
+    font-family: STXihei, serif;
+}
+
+.nameAndTime {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.messText {
+    max-width: 100%;
+    white-space: nowrap; /*强制单行显示*/
+    text-overflow: ellipsis; /*超出部分省略号表示*/
+    overflow: hidden; /*超出部分隐藏*/
+}
+
+.delMess {
+    width: 20px;
+    height: 20px;
+    border-radius: 13px;
+    position: absolute;
+    right: 31px;
+    margin-top: 72px;
+    z-index: 0;
+    transform: translate(100px, 0px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.delMess svg {
+    width: 20px;
+    height: 20px;
+}
+
+.messageList:hover .delMess {
+    transform: translate(0px, 0px);
+}
+
+.delMess:hover svg {
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 13px;
+    transition: all 0.5s ease-in-out;
+}
+
+.sMessage_mod {
+    width: 100%;
+    height: 100%;
+}
+
+.noMess {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.noMess span {
+    font-family: STXihei, serif;
+    font-size: large;
+}

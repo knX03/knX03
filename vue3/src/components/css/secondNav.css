@@ -1,0 +1,66 @@
+.affix-container {
+    height: 400px;
+}
+.container {
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: #F4D5B7;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.6));
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
+
+#seNav_mod {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+
+#seNav_item {
+    height: 40px;
+    width: 100px;
+    list-style-type: none;
+    display: flex;
+    margin: 20px 50px;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s all ease-in-out;
+}
+
+#seNav_item span {
+    font-family: 微软雅黑;
+    font-size: medium;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+#seNav_item:hover {
+    background-color: #7D8561;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    transition: 0.5s all ease-in-out;
+}
+
+.el-menu--horizontal > .el-menu-item.is-active {
+    border: 0;
+    color: transparent;
+}
+
+.el-menu-item.is-active {
+    background-color: #7D8561;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
